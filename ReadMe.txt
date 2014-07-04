@@ -1,0 +1,1 @@
+This is a test project of home automation - hobby electronics
